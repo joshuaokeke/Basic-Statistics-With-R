@@ -1,7 +1,4 @@
-# Spatial Statistics Lab
-Welcome to the Spatial Statistics Lab repository! This repository is dedicated to the materials for the Spatial Statistics Lab conducted by **Onyedikachi J Okeke**.
-
-## Introduction
+# Introduction
 Spatial statistics is a branch of statistics that deals with the analysis of spatial data, which includes data with spatial or geographic components. This lab aims to provide hands-on experience with spatial statistics concepts using the R programming language. Through practical exercises and code examples, participants will gain proficiency in analyzing and visualizing spatial data, performing statistical tests, and building spatial models.
 
 ## Lab Content
